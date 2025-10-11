@@ -23,3 +23,10 @@ yarn-error.log*# Environment
 serviceAccount.json
 firebase-admin.json
 *-key.json
+node_modules/
+.env
+.DS_Store
+*.log
+.history/
+serviceAccountKey.json
+.vscode/
